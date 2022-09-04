@@ -142,3 +142,61 @@ section.sobre {
     width: 800px;
     margin: 0 515px;
 }
+
+.novidadesrodape{
+    background-color: #017143;
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    position: absolute;
+    padding: 8px;
+    bottom: 0;
+    font-size: 18; font-weight: bold;
+ }
+ 
+ .headernovidades {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 1280px;
+    height: 105px;
+    margin: 0 auto;
+    padding: 0 5%;
+    background-color: antiquewhite;
+}
+
+.titulonovidades {
+    /* background-color: #017143; */
+    width: 1280px;
+    height: 40px;
+    padding: 0;
+    margin: 0;
+
+}
+
+.bodynovidades {
+    /* background-color: #8d80bb; */
+    width: 450px;
+    height: 640px;
+    margin: 20px;
+    padding: 0 px;
+}
+
+.imagenscentral1 {
+    flex-wrap: wrap;
+    width: 1260px;
+    padding: 10px;
+    height: 160px;
+    position: absolute;
+    text-align: right;
+    
+    /* background-color: rgb(20, 49, 75); */
+}
+.imagenscentral2 {
+    flex-wrap: wrap;
+    width: 1260px;
+    padding: 10px;
+    height: 160px;
+    position: absolute;
+    text-align: center;
+
+}
